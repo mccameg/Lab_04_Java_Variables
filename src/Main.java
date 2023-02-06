@@ -35,5 +35,14 @@ public class Main {
         doubleQuotient = doubleOperandA / doubleOperandB;
         System.out.println("The quotient using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleQuotient);
 
+        double myLunchCost = 8.50;
+        int howManyKids = 2;
+        String isRaining = "no";
+        double gasCost = 3.89;
+        int favNumber = 62;
+        double shoeSize = 8;
+        int birthMonth = 2;
+        String fullName = "Megan Elizabeth McCarren";
+
     }
 }
